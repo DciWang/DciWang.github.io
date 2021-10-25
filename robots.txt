@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://dciwang/github.io/sitemap.xml
+Sitemap: https://dciwang.github.io/sitemap.xml
