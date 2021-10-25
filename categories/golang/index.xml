@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>go on wind chime&#39;s blog</title>
-    <link>https://dciwang.github.io/tags/go/</link>
-    <description>Recent content in go on wind chime&#39;s blog</description>
+    <title>golang on wind chime&#39;s blog</title>
+    <link>https://dciwang.github.io/categories/golang/</link>
+    <description>Recent content in golang on wind chime&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 01 Jan 2021 16:01:23 +0800</lastBuildDate><atom:link href="https://dciwang.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 16:01:23 +0800</lastBuildDate><atom:link href="https://dciwang.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>go知识巩固</title>
       <link>https://dciwang.github.io/post/go%E7%9F%A5%E8%AF%86%E5%B7%A9%E5%9B%BA/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://dciwang.github.io/post/go%E7%9F%A5%E8%AF%86%E5%B7%A9%E5%9B%BA/</guid>
       <description>go 知识巩固 指针 Go语言保留了指针，但与C语言指针有所不同，主要体现在 默认值为nil 操作符 &amp;ldquo;&amp;amp;&amp;rdquo; 取变量地址，&amp;quot;*&amp;quot; 通过指针访问</description>
-    </item>
-    
-    <item>
-      <title>Q</title>
-      <link>https://dciwang.github.io/post/2199/</link>
-      <pubDate>Fri, 01 Jan 2021 16:01:23 +0800</pubDate>
-      
-      <guid>https://dciwang.github.io/post/2199/</guid>
-      <description>topic Q is wdc&amp;rsquo;s one of girlfriends</description>
     </item>
     
   </channel>
